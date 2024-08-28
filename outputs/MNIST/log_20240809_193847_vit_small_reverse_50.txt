@@ -1,0 +1,60 @@
+2024-08-09 19:38:47,597 - __main__ - INFO - Logging is set up.
+2024-08-09 19:38:47,597 - __main__ - INFO - vit_small_reverse_optim_setadam_epoch_50_lr_0.0001_eps_1.0E-08
+2024-08-09 19:38:47,613 - __main__ - INFO - ==> Preparing data..
+2024-08-09 19:38:47,644 - __main__ - INFO - ==> Building model..
+2024-08-09 19:38:47,660 - __main__ - INFO - Model name: vit_small_reverse
+2024-08-09 19:38:47,660 - __main__ - INFO - Total epochs: 50
+2024-08-09 19:38:47,660 - __main__ - INFO - Using CUDA and data parallel
+2024-08-09 19:39:30,245 - __main__ - INFO - epoch: 0 train_loss: 0.4567344195 train_acc: 84.8933 val_loss:  0.2022270436 val_acc: 93.7300 memory_usage: 491.69 MiB
+2024-08-09 19:40:11,894 - __main__ - INFO - epoch: 1 train_loss: 0.1842559453 train_acc: 94.0633 val_loss:  0.1599036582 val_acc: 94.8900 memory_usage: 491.69 MiB
+2024-08-09 19:40:54,086 - __main__ - INFO - epoch: 2 train_loss: 0.1338940154 train_acc: 95.8033 val_loss:  0.1137158226 val_acc: 96.4900 memory_usage: 491.69 MiB
+2024-08-09 19:41:36,793 - __main__ - INFO - epoch: 3 train_loss: 0.1127447334 train_acc: 96.4400 val_loss:  0.1205209935 val_acc: 96.3300 memory_usage: 491.69 MiB
+2024-08-09 19:42:18,964 - __main__ - INFO - epoch: 4 train_loss: 0.0962869451 train_acc: 96.9733 val_loss:  0.0977167785 val_acc: 97.0000 memory_usage: 491.69 MiB
+2024-08-09 19:43:01,244 - __main__ - INFO - epoch: 5 train_loss: 0.0895765083 train_acc: 97.1317 val_loss:  0.1091705399 val_acc: 96.7500 memory_usage: 491.69 MiB
+2024-08-09 19:43:43,712 - __main__ - INFO - epoch: 6 train_loss: 0.0759448539 train_acc: 97.6017 val_loss:  0.0815556119 val_acc: 97.4100 memory_usage: 491.69 MiB
+2024-08-09 19:44:26,165 - __main__ - INFO - epoch: 7 train_loss: 0.0677664373 train_acc: 97.8183 val_loss:  0.0957755088 val_acc: 97.1200 memory_usage: 491.69 MiB
+2024-08-09 19:45:08,676 - __main__ - INFO - epoch: 8 train_loss: 0.0598237395 train_acc: 98.0733 val_loss:  0.0887787081 val_acc: 97.3100 memory_usage: 491.69 MiB
+2024-08-09 19:45:51,517 - __main__ - INFO - epoch: 9 train_loss: 0.0532368579 train_acc: 98.2817 val_loss:  0.0903573099 val_acc: 97.4100 memory_usage: 491.69 MiB
+2024-08-09 19:46:33,833 - __main__ - INFO - epoch: 10 train_loss: 0.0520481287 train_acc: 98.2917 val_loss:  0.0894702032 val_acc: 97.3000 memory_usage: 491.69 MiB
+2024-08-09 19:47:16,417 - __main__ - INFO - epoch: 11 train_loss: 0.0471342971 train_acc: 98.5117 val_loss:  0.0812329812 val_acc: 97.7000 memory_usage: 491.69 MiB
+2024-08-09 19:47:58,871 - __main__ - INFO - epoch: 12 train_loss: 0.0422270998 train_acc: 98.6133 val_loss:  0.0821610986 val_acc: 97.6400 memory_usage: 491.69 MiB
+2024-08-09 19:48:41,112 - __main__ - INFO - epoch: 13 train_loss: 0.0379687644 train_acc: 98.7767 val_loss:  0.0852594647 val_acc: 97.4500 memory_usage: 491.69 MiB
+2024-08-09 19:49:23,339 - __main__ - INFO - epoch: 14 train_loss: 0.0352241279 train_acc: 98.8417 val_loss:  0.0894541260 val_acc: 97.4500 memory_usage: 491.69 MiB
+2024-08-09 19:50:05,840 - __main__ - INFO - epoch: 15 train_loss: 0.0340317012 train_acc: 98.8950 val_loss:  0.0797924093 val_acc: 97.8200 memory_usage: 491.69 MiB
+2024-08-09 19:50:48,122 - __main__ - INFO - epoch: 16 train_loss: 0.0313956500 train_acc: 98.9317 val_loss:  0.0785150507 val_acc: 97.9000 memory_usage: 491.69 MiB
+2024-08-09 19:51:30,877 - __main__ - INFO - epoch: 17 train_loss: 0.0241346379 train_acc: 99.2483 val_loss:  0.0746424300 val_acc: 97.9300 memory_usage: 491.69 MiB
+2024-08-09 19:52:13,394 - __main__ - INFO - epoch: 18 train_loss: 0.0258554347 train_acc: 99.1150 val_loss:  0.0730039480 val_acc: 98.0100 memory_usage: 491.69 MiB
+2024-08-09 19:52:55,774 - __main__ - INFO - epoch: 19 train_loss: 0.0216282830 train_acc: 99.3133 val_loss:  0.0838667823 val_acc: 97.6700 memory_usage: 491.69 MiB
+2024-08-09 19:53:38,307 - __main__ - INFO - epoch: 20 train_loss: 0.0196054550 train_acc: 99.2933 val_loss:  0.0735824898 val_acc: 97.9300 memory_usage: 491.69 MiB
+2024-08-09 19:54:20,577 - __main__ - INFO - epoch: 21 train_loss: 0.0202367716 train_acc: 99.3183 val_loss:  0.0952139344 val_acc: 97.5600 memory_usage: 491.69 MiB
+2024-08-09 19:55:02,858 - __main__ - INFO - epoch: 22 train_loss: 0.0162974694 train_acc: 99.4500 val_loss:  0.0888094775 val_acc: 97.8300 memory_usage: 491.69 MiB
+2024-08-09 19:55:45,436 - __main__ - INFO - epoch: 23 train_loss: 0.0165719465 train_acc: 99.4250 val_loss:  0.0884820845 val_acc: 97.7400 memory_usage: 491.69 MiB
+2024-08-09 19:56:27,827 - __main__ - INFO - epoch: 24 train_loss: 0.0152181876 train_acc: 99.4900 val_loss:  0.0838055725 val_acc: 97.9500 memory_usage: 491.69 MiB
+2024-08-09 19:57:10,518 - __main__ - INFO - epoch: 25 train_loss: 0.0101480841 train_acc: 99.6417 val_loss:  0.0765227062 val_acc: 98.0700 memory_usage: 491.69 MiB
+2024-08-09 19:57:53,413 - __main__ - INFO - epoch: 26 train_loss: 0.0112647680 train_acc: 99.5917 val_loss:  0.0916552146 val_acc: 97.7100 memory_usage: 491.69 MiB
+2024-08-09 19:58:35,654 - __main__ - INFO - epoch: 27 train_loss: 0.0107477098 train_acc: 99.6233 val_loss:  0.0811671503 val_acc: 98.0500 memory_usage: 491.69 MiB
+2024-08-09 19:59:18,415 - __main__ - INFO - epoch: 28 train_loss: 0.0082893435 train_acc: 99.7550 val_loss:  0.0902777341 val_acc: 97.9400 memory_usage: 491.69 MiB
+2024-08-09 20:00:00,790 - __main__ - INFO - epoch: 29 train_loss: 0.0072337198 train_acc: 99.7667 val_loss:  0.0916365502 val_acc: 97.9800 memory_usage: 491.69 MiB
+2024-08-09 20:00:43,032 - __main__ - INFO - epoch: 30 train_loss: 0.0057352773 train_acc: 99.8267 val_loss:  0.0786610103 val_acc: 98.2000 memory_usage: 491.69 MiB
+2024-08-09 20:01:25,418 - __main__ - INFO - epoch: 31 train_loss: 0.0048261029 train_acc: 99.8650 val_loss:  0.0804798313 val_acc: 98.0900 memory_usage: 491.69 MiB
+2024-08-09 20:02:07,860 - __main__ - INFO - epoch: 32 train_loss: 0.0046347087 train_acc: 99.8567 val_loss:  0.0826312923 val_acc: 98.1100 memory_usage: 491.69 MiB
+2024-08-09 20:02:50,086 - __main__ - INFO - epoch: 33 train_loss: 0.0051784941 train_acc: 99.8450 val_loss:  0.0857920860 val_acc: 98.1900 memory_usage: 491.69 MiB
+2024-08-09 20:03:32,854 - __main__ - INFO - epoch: 34 train_loss: 0.0036244717 train_acc: 99.8800 val_loss:  0.0795237690 val_acc: 98.2900 memory_usage: 491.69 MiB
+2024-08-09 20:04:15,218 - __main__ - INFO - epoch: 35 train_loss: 0.0031417044 train_acc: 99.9033 val_loss:  0.0870585180 val_acc: 98.2000 memory_usage: 491.69 MiB
+2024-08-09 20:04:57,579 - __main__ - INFO - epoch: 36 train_loss: 0.0029625175 train_acc: 99.9083 val_loss:  0.0802518676 val_acc: 98.3100 memory_usage: 491.69 MiB
+2024-08-09 20:05:40,326 - __main__ - INFO - epoch: 37 train_loss: 0.0021953878 train_acc: 99.9400 val_loss:  0.0882003037 val_acc: 98.1400 memory_usage: 491.69 MiB
+2024-08-09 20:06:22,535 - __main__ - INFO - epoch: 38 train_loss: 0.0018470109 train_acc: 99.9583 val_loss:  0.0827310163 val_acc: 98.2900 memory_usage: 491.69 MiB
+2024-08-09 20:07:04,718 - __main__ - INFO - epoch: 39 train_loss: 0.0014327785 train_acc: 99.9717 val_loss:  0.0817268983 val_acc: 98.2900 memory_usage: 491.69 MiB
+2024-08-09 20:07:46,948 - __main__ - INFO - epoch: 40 train_loss: 0.0013411895 train_acc: 99.9600 val_loss:  0.0807410109 val_acc: 98.3500 memory_usage: 491.69 MiB
+2024-08-09 20:08:29,244 - __main__ - INFO - epoch: 41 train_loss: 0.0013227390 train_acc: 99.9700 val_loss:  0.0815546488 val_acc: 98.3100 memory_usage: 491.69 MiB
+2024-08-09 20:09:11,809 - __main__ - INFO - epoch: 42 train_loss: 0.0011821984 train_acc: 99.9733 val_loss:  0.0867959112 val_acc: 98.2800 memory_usage: 491.69 MiB
+2024-08-09 20:09:54,502 - __main__ - INFO - epoch: 43 train_loss: 0.0010694690 train_acc: 99.9800 val_loss:  0.0849070442 val_acc: 98.3400 memory_usage: 491.69 MiB
+2024-08-09 20:10:36,636 - __main__ - INFO - epoch: 44 train_loss: 0.0007749775 train_acc: 99.9900 val_loss:  0.0827396856 val_acc: 98.3100 memory_usage: 491.69 MiB
+2024-08-09 20:11:19,320 - __main__ - INFO - epoch: 45 train_loss: 0.0009545696 train_acc: 99.9750 val_loss:  0.0818359277 val_acc: 98.3800 memory_usage: 491.69 MiB
+2024-08-09 20:12:01,637 - __main__ - INFO - epoch: 46 train_loss: 0.0008373409 train_acc: 99.9783 val_loss:  0.0803359942 val_acc: 98.3800 memory_usage: 491.69 MiB
+2024-08-09 20:12:43,844 - __main__ - INFO - epoch: 47 train_loss: 0.0005721411 train_acc: 99.9933 val_loss:  0.0831360819 val_acc: 98.3300 memory_usage: 491.69 MiB
+2024-08-09 20:13:26,187 - __main__ - INFO - epoch: 48 train_loss: 0.0006001000 train_acc: 99.9900 val_loss:  0.0823825860 val_acc: 98.3500 memory_usage: 491.69 MiB
+2024-08-09 20:14:08,631 - __main__ - INFO - epoch: 49 train_loss: 0.0006502153 train_acc: 99.9900 val_loss:  0.0828399880 val_acc: 98.3800 memory_usage: 491.69 MiB
+2024-08-09 20:14:08,631 - __main__ - INFO - Best accuracy: 98.3800
+2024-08-09 20:14:08,631 - __main__ - INFO - Max memory usage: 491.69 MB
+2024-08-09 20:14:08,631 - __main__ - INFO - Total memory usage: 24584.45 MiB
