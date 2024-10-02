@@ -27,7 +27,9 @@ Train on CIFAR-10 using `train_MNIST.py`
 CHOOSE YOUR NET by editing the argument `--net`
 
 `parser.add_argument('--net', default='vit_small')` -------------FOR ViT-small
+
 `parser.add_argument('--net', default='vit_small_reverse')` -----FOR Reversiable ViT-small
+
 `parser.add_argument('--net', default='vit_small_bdia')` --------FOR BDIA ViT-small
 
 UNFINISHED MODIFICATION MODEL `vit_small_momentum`
